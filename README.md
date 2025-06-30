@@ -25,7 +25,9 @@ Based on Browser Support Extension Install.
 
 https://github.com/user-attachments/assets/a83938e9-3e35-4211-a952-723571208ae2
 
-https://github.com/user-attachments/assets/827b5c4c-0f25-4c6d-8243-a0178bd07963
+
+https://github.com/user-attachments/assets/afb9a087-e2b8-4579-b8d7-0527519b2320
+
 
 ## Screenshots
 
