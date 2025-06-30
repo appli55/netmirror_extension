@@ -20,8 +20,8 @@ Based on Browser Support Extension Install.
 
 <a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/NetMirror_extension.zip'>Download File</a>
 
-## ScreenRecorde Video
-https://raw.githubusercontent.com/appli55/netmirror_extension/main/videos/1.mp4
+
+[![Watch the video](https://raw.githubusercontent.com/appli55/netmirror_extension/main/videos/thumbnail.jpg)](https://raw.githubusercontent.com/appli55/netmirror_extension/main/videos/1.mp4)
 
 ## Screenshots
 
