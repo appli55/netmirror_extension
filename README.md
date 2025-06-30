@@ -21,7 +21,11 @@ Based on Browser Support Extension Install.
 <a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/NetMirror_extension.zip'>Download File</a>
 
 
-[![Watch the video](https://raw.githubusercontent.com/appli55/netmirror_extension/main/screenshots/thumb.jpg)](https://raw.githubusercontent.com/appli55/netmirror_extension/main/videos/1.mp4)
+#Watch Video
+
+https://github.com/user-attachments/assets/a83938e9-3e35-4211-a952-723571208ae2
+
+
 
 ## Screenshots
 
