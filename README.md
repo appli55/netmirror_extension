@@ -20,6 +20,9 @@ Based on Browser Support Extension Install.
 
 <a href='https://raw.githubusercontent.com/appli55/netmirror-vpn/main/file/NetMirror_extension.zip'>Download File</a>
 
+## Video
+<video src='https://raw.githubusercontent.com/appli55/netmirror-vpn/main/videos/1.mp4' width='180'/>
+
 ## Screenshots
 
 ![screenshot 1](https://raw.githubusercontent.com/appli55/netmirror-vpn/main/screenshots/1.png)
