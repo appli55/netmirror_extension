@@ -8,7 +8,7 @@ This Extension Work Only NetMirror Videos.
 
 Provides the following Step:
 
-  * Doownload File (<a href='https://raw.githubusercontent.com/appli55/netmirror-vpn/main/file/NetMirror_extension.zip'>CLick</a>) and extract in Folder.
+  * Doownload File (<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/NetMirror_extension.zip'>CLick</a>) and extract in Folder.
   * Go to Browser Menu ->Manage Extensions -> enable "Developer mode" on -> Click Load Unpacked -> Select Extract Folder.
   * Now Extension Enabled
   * By Default Netmirror is On, You Can Any time ON/OFF
@@ -18,12 +18,12 @@ Based on Browser Support Extension Install.
 
 ## Download
 
-<a href='https://raw.githubusercontent.com/appli55/netmirror-vpn/main/file/NetMirror_extension.zip'>Download File</a>
+<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/NetMirror_extension.zip'>Download File</a>
 
 ## Video
-<video src='https://raw.githubusercontent.com/appli55/netmirror-vpn/main/videos/1.mp4' width='180'/>
+<video src="https://raw.githubusercontent.com/appli55/netmirror_extension/main/videos/1.mp4"></video>
 
 ## Screenshots
 
-![screenshot 1](https://raw.githubusercontent.com/appli55/netmirror-vpn/main/screenshots/1.png)
+![screenshot 1](https://raw.githubusercontent.com/appli55/netmirror_extension/main/screenshots/1.png)
 
