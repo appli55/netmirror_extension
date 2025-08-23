@@ -8,7 +8,7 @@ This Extension Work Only for NetMirror Videos.
 
 Provides the following Step:
 
-  * Doownload File (<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/Netmirror-extension-22-8-25_V1.1.zip'>CLick</a>) and extract in Folder.
+  * Doownload File (<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/Netmirror-extension-23-8-25_V1.10.2.zip'>CLick</a>) and extract in Folder.
   * Go to Browser Menu ->Manage Extensions -> enable "Developer mode" on -> Click Load Unpacked -> Select Extract Folder.
   * Now Extension Enabled
   * You Can Any time ON/OFF
@@ -18,7 +18,7 @@ Based on Browser Support Extension Install.
 
 ## Download
 
-<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/Netmirror-extension-22-8-25_V1.1.zip'>Download File</a>
+<a href='https://raw.githubusercontent.com/appli55/netmirror_extension/main/file/Netmirror-extension-23-8-25_V1.10.2.zip'>Download File</a>
 
 
 #Watch Video
