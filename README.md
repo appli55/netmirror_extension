@@ -11,7 +11,7 @@ This Extension Work Only for NetMirror Videos.
 Provides the following Step:
 
   * <a href='https://chromewebstore.google.com/detail/netmirror-extension/imeeoinlogcehkhfjcopabijecfobcod'>Click Add to</a>.
-  * GO to <a href='https://netmirror.art'>Netmirror</a> Website,
+  * GO to <a href='https://netmirror2.bio'>Netmirror</a> Website,
 
 
 
